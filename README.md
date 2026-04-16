@@ -1,28 +1,18 @@
 <div align="center">
 
-# Sumedha ✨
+# Sumedha
 
-### Exploring • Building • Evolving
+### Exploring. Building. Evolving.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AAAAAA&center=true&vCenter=true&width=435&lines=Passionate+about+technology;Driven+by+curiosity;Always+learning+new+things" />
+Passionate about technology, innovation, and continuous growth.  
+Driven by curiosity and inspired by the endless possibilities of learning.  
 
----
+Dedicated to turning ideas into meaningful creations,  
+embracing challenges, and evolving through every experience.  
 
-*Quietly building. Constantly improving. Continuously learning.*
+Believing in consistency, creativity, and the power of progress,  
+I strive to improve with every step forward.
+
+> *Focused on progress. Driven by curiosity. Committed to growth.*
 
 </div>
-
-<!--
-**SumedhaKH/SumedhaKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
